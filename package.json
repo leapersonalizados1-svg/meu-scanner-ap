@@ -1,0 +1,12 @@
+{
+  "name": "meu-scanner-api",
+  "version": "1.0.0",
+  "description": "API para scanner de acessibilidade",
+  "scripts": {
+    "dev": "vercel dev"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "@vercel/node": "^2.0.0"
+  }
+}
